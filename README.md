@@ -1,0 +1,1 @@
+Proyek ini bertujuan untuk menganalisis tren musik di platform Spotify pada tahun 2023 menggunakan algoritma K-Means. Analisis ini dilakukan dengan mengelompokkan lagu-lagu berdasarkan kemiripan fitur audio untuk memahami preferensi dan tren musik.
